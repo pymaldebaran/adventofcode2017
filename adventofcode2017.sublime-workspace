@@ -1,0 +1,342 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "december01.py",
+			"settings":
+			{
+				"buffer_size": 6649,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "december02.py",
+			"settings":
+			{
+				"buffer_size": 4740,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 352.0,
+		"last_filter": "trail",
+		"selected_items":
+		[
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"stx py",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"join",
+				"JoinLinesEnhanced: join"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 441.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/pym/Projects/adventofcode2017"
+	],
+	"file_history":
+	[
+		"/home/pym/Projects/adventofcode2017/.gitignore",
+		"/home/pym/Projects/adventofcode2017/README",
+		"/home/pym/Projects/mincer/tests/test_mincer.py",
+		"/home/pym/Projects/mincer/mincer/__init__.py",
+		"/home/pym/Dropbox/pour bailarina/flyer 2017/texte_flyer.txt",
+		"/home/pym/Projects/mincer/mincer/templates/provider_status.html",
+		"/home/pym/Projects/mincer/tests/fakeprov.py",
+		"/home/pym/Projects/mincer/CHANGELOG.rst",
+		"/home/pym/Projects/mincer/mincer/utils.py",
+		"/home/pym/Projects/mincer/Makefile",
+		"/home/pym/Projects/mincer/tests/utils.py",
+		"/home/pym/Projects/mincer/README.rst",
+		"/home/pym/.config/sublime-text-3/Packages/User/trailing_spaces.sublime-settings",
+		"/home/pym/.config/sublime-text-3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/home/pym/Projects/mincer/mincer/templates/home.html",
+		"/home/pym/Projects/mincer/mincer/templates/status.html",
+		"/home/pym/Projects/mincer/docs/conf.py",
+		"/home/pym/Projects/mincer/mincer/instance/.gitignore",
+		"/home/pym/Projects/mincer/mincer/schema.sql",
+		"/var/tmp/testvenv/somme/tests/test_somme.py",
+		"/var/tmp/testvenv/somme/somme.py",
+		"/var/tmp/testvenv/somme.py",
+		"/var/tmp/testvenv/tests/test_somme.py",
+		"/var/tmp/testvenv/test_somme.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"line_divider",
+			"        \"",
+			"\"\\",
+			"\ndef test_part2_1():\n    assert solver_part2(1212) == 6\n",
+			"starcount",
+			"tmp_db_uri",
+			"HtmlClasses",
+			"mincer.HtmlClasses",
+			"HtmlClasses",
+			"no-result",
+			"searchresults",
+			"HtmlClasses",
+			"build_url",
+			"tmp_db",
+			"database",
+			"db",
+			"split",
+			"all()",
+			"ALL",
+			"slug",
+			"ALL",
+			"tmp_db"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"line_dividers",
+			"",
+			"solver_part1",
+			"_build_url",
+			"TMP_DB"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "december01.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6649,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "december02.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2617,
+								2617
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"git_gutter_is_enabled": true,
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/Python Improved/PythonImproved.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1044.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "adventofcode2017.sublime-project",
+	"replace":
+	{
+		"height": 67.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
