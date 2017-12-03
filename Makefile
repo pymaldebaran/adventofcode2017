@@ -12,3 +12,4 @@ test:
 runall:
 	pipenv run python december01.py
 	pipenv run python december02.py
+	pipenv run python december03.py
